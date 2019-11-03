@@ -1,0 +1,27 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    background: #FFFFF;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 50px 30px;
+    color: #696969;
+}
+body{width:70%;}
+.grid th{border:1px solid #bbb; padding:4px; background-color:#345; color:#fff; text-align:left;}
+.grid td{border:1px solid #bbb; padding:4px;}
+.gvAlt{background-color:#f3f3f3;}
+.gvEmpty td{padding: 20px; color: red; font-size:17px; background-color:#F5F5F5; }
+
+.popuHeader{padding:7px; background-color:#000000; color:#ffffff; font-size:100%; font-weight:bold;}
+div{margin-bottom:7px;}
+
+.table-border{width:100%;}
+.table-border td{border:1px dashed #dddddd; padding:4px;}
+
+input[type=text]{width:340px;}
+
+input[type=button], input[type=submit]{background-color:#793; padding:4px 7px; border:none; color:#fff; font-size:17px;}
